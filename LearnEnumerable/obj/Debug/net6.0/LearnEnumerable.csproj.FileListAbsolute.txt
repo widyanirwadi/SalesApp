@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\LearnEnumerable\bin\Debug\net6.0\LearnEnumerable.exe
+C:\Users\user\source\repos\LearnEnumerable\bin\Debug\net6.0\LearnEnumerable.deps.json
+C:\Users\user\source\repos\LearnEnumerable\bin\Debug\net6.0\LearnEnumerable.runtimeconfig.json
+C:\Users\user\source\repos\LearnEnumerable\bin\Debug\net6.0\LearnEnumerable.dll
+C:\Users\user\source\repos\LearnEnumerable\bin\Debug\net6.0\LearnEnumerable.pdb
+C:\Users\user\source\repos\LearnEnumerable\obj\Debug\net6.0\LearnEnumerable.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LearnEnumerable\obj\Debug\net6.0\LearnEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LearnEnumerable\obj\Debug\net6.0\LearnEnumerable.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LearnEnumerable\obj\Debug\net6.0\LearnEnumerable.AssemblyInfo.cs
+C:\Users\user\source\repos\LearnEnumerable\obj\Debug\net6.0\LearnEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LearnEnumerable\obj\Debug\net6.0\LearnEnumerable.dll
+C:\Users\user\source\repos\LearnEnumerable\obj\Debug\net6.0\refint\LearnEnumerable.dll
+C:\Users\user\source\repos\LearnEnumerable\obj\Debug\net6.0\LearnEnumerable.pdb
+C:\Users\user\source\repos\LearnEnumerable\obj\Debug\net6.0\LearnEnumerable.genruntimeconfig.cache
+C:\Users\user\source\repos\LearnEnumerable\obj\Debug\net6.0\ref\LearnEnumerable.dll
